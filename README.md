@@ -7,7 +7,7 @@ Sou Formado em Tecnologia em sistemas de Telecomunicações na Universidade Tecn
 
 Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software e Data Science. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores.
 
-<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="400" text-align="center" />
+<center><img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="400" /></center>
 
 #### Contatos:
     
@@ -17,16 +17,15 @@ Sou apaixonado por tecnologia e em constante busca por conhecimentos para me ape
 
 
 #### Conhecimentos:
-Desenvolvimento de software, Metodologias Ágeis, Data Science, Telecomunicações, Redes, Linguagens de Programação, Banco de Dados, Manutenção de Sistemas
+Desenvolvimento FrontEnd, Desenvolvimento de software, Linguagens de Programação, Banco de Dados, Manutenção de Sistemas, Metodologias Ágeis, Data Science, Telecomunicações, Redes.
 
 ## Linguagens e Bibliotecas:
+#### **Linguagens Frontend
+HTML, CSS, JAVASCRIPT, React, REACT Native, NODE, EXPRESS, AXIOS, EXPO.
+
 #### **Linguagens Backend
 Python, C*, C++, Java*.
 Pandas, Numpy, Scipy, Matplotplib, Seaborn, Plotly, Scikit-Learn
-
-#### **Linguagens Frontend
-HTML, CSS, JAVASCRIPT
-React, REACT Native, NODE, EXPRESS, AXIOS, EXPO.
 
 #### **Bancos de Dados
 Relacionais e Não Relacionais (MySQL, PostGreSQL, MongoDB, SQLite, Redis, CouchDB, Firebase)
