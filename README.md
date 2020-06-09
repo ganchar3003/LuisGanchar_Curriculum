@@ -1,3 +1,4 @@
+<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/frontend.png" alt="capa" />
 # Luis Augusto Santin Ganchar
 
 Repositório de Projetos para Portifólio.
@@ -5,9 +6,9 @@ Repositório de Projetos para Portifólio.
 ## Sobre Mim
 Sou Formado em Tecnologia em sistemas de Telecomunicações na Universidade Tecnológica Federal do Paraná, com Experiência de mais de 15 anos nas áreas de TI e Telecomunicações, com atividades de Projetos, Configurações, Implantação, Operação & Manutenção, Pré-Vendas e Projetos de Redes e Telecomunicações.
 
-Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software e Data Science. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores.
+Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores. A Apresentação de dados e novos designs me inpiram e me levam a querer cada dia mais buscar conhecimentos para confeccionar os melhores sistemas FrontEnd já vistos.
 
-<center><img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="400" /></center>
+<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="400" />
 
 #### Contatos:
     
