@@ -1,12 +1,13 @@
 # Luis Augusto Santin Ganchar
-# MyOpenSourceProjects
 
     Repositório Padrão para inclusão de Projetos para Portifólio.
 
-# Sobre Mim
+## Sobre Mim
 Sou Formado em Tecnologia em sistemas de Telecomunicações na Universidade Tecnológica Federal do Paraná, com Experiência de mais de 15 anos nas áreas de TI e Telecomunicações, com atividades de Projetos, Configurações, Implantação, Operação & Manutenção, Pré-Vendas e Projetos de Redes e Telecomunicações.
 
 Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software e Data Science. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores.
+
+![Image of Luis - GitHub](https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg)
 
 #### Contatos:
     
