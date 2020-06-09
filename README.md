@@ -7,7 +7,7 @@ Sou Formado em Tecnologia em sistemas de Telecomunicações na Universidade Tecn
 
 Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software e Data Science. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores.
 
-![Image of Luis - GitHub](https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg =200x)
+<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="200" />
 
 #### Contatos:
     
