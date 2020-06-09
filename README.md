@@ -13,6 +13,7 @@ Sou apaixonado por tecnologia e em constante busca por conhecimentos para me ape
     
     email: ganchar3003@yahoo.com.br
     fone: +55 (48) 99605-0275
+    linkedin: [Linkedin](https://www.linkedin.com/in/luisganchar/)
 
 
 #### Conhecimentos:
