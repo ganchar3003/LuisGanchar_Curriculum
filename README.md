@@ -1,6 +1,6 @@
-<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/frontend.png" alt="capa" />
+<img style="display: block; margin: auto" src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/frontend.png" alt="capa" />
 
-
+<br>
 # Luis Augusto Santin Ganchar
 
 Repositório de Projetos para Portifólio.
