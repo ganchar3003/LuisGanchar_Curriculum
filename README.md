@@ -7,7 +7,7 @@ Sou Formado em Tecnologia em sistemas de Telecomunicações na Universidade Tecn
 
 Sou apaixonado por tecnologia e em constante busca por conhecimentos para me aperfeiçoar nas áreas de Desenvolvimentos de Software e Data Science. Sou um profissional apaixonado por tudo que faz, e todos os projetos que participo são destacados e bem vistos por clientes e colaboradores.
 
-<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="200" />
+<img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/Avatar_GitHub.jpeg" alt="avatar" width="400" text-align="center" />
 
 #### Contatos:
     
@@ -33,3 +33,4 @@ Relacionais e Não Relacionais (MySQL, PostGreSQL, MongoDB, SQLite, Redis, Couch
 
 #### **Gerais
 Git, GitHub, Docker, entre outros.
+
