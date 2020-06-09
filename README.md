@@ -1,4 +1,6 @@
+<div style="text-align: center">
 <img src="https://github.com/ganchar3003/LuisGanchar_Curriculum/blob/master/frontend.png" alt="capa" />
+</div>
 
 # Luis Augusto Santin Ganchar
 
