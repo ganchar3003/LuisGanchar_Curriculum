@@ -23,7 +23,7 @@ Desenvolvimento FrontEnd, Desenvolvimento de software, Linguagens de Programa√ß√
 
 ## Linguagens e Bibliotecas:
 #### **Linguagens Frontend
-HTML, CSS, JAVASCRIPT, React, REACT Native, NODE, EXPRESS, AXIOS, EXPO.
+HTML5, CSS3, JAVASCRIPT, ESNEXT, React, REACT Native, NODE, EXPRESS, AXIOS, EXPO, BOOTSTRAP, SASS, WORDPRESS.
 
 #### **Linguagens Backend
 Python, C*, C++, Java*.
